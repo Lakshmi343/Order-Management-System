@@ -1,4 +1,4 @@
-Order Management System - Authentication API
+# Order Management System - Authentication API
 
 Overview
 
@@ -14,7 +14,7 @@ Description: Registers a new user with a specific role.
 
 Request Body:
 
-{
+#link{
   "name": "John Doe",
   "email": "john@example.com",
   "password": "password123",
